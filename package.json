@@ -1,0 +1,24 @@
+{
+  "name": "@dillonchr/fired",
+  "version": "1.0.0",
+  "description": "module to check people that fall off the staff page",
+  "main": "fired.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonchr/fired.git"
+  },
+  "author": "@dillonchr",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dillonchr/fired/issues"
+  },
+  "homepage": "https://github.com/dillonchr/fired#readme",
+  "dependencies": {
+    "@dillonchr/domget": "^1.0.0",
+    "@dillonchr/ephemeraldb": "^1.0.0",
+    "async": "^2.6.1"
+  }
+}
