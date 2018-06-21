@@ -1,4 +1,4 @@
-![](fired.png)
+![](fired.gif)
 # Fired
 A module for keeping track of people that disappear from staff pages.
 
